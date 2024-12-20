@@ -8,7 +8,7 @@ Autor: Ainhoa Flórez
 
 Fecha: 20 de diciembre de 2024
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![what is augmented reality](https://www.ptc.com/-/media/Images/blog/post/ar-blog/what-is-augmented-reality-Image1-900x450.jpg?h=450&w=900) 
 
 
 
@@ -47,17 +47,18 @@ Cabe a destacar también la integración de paradigmas visuales. Esta aplicació
 
 Por otro lado, _PlantSnap_ ejemplifica la hibridación entre diferentes campos de conocimiento. Por un lado, la biología y la ecología aportan el contenido; por otro, la IA proporciona la metodología para procesarlo. En este sentido, la aplicación no solo actúa como herramienta educativa, sino que también fomenta una nueva forma de participación ciudadana en el ámbito científico. Aquí, los usuarios contribuyen, involuntariamente, al crecimiento de la base de datos de la aplicación al registrar nuevas especies o validar las ya existentes.
 
-Este enfoque democrático de la ciencia permite que cualquier persona pueda aportar al avance de esta. El constante _feedback_ que reciben los algoritmos a través de estas contribuciones también va mejorando cada vez más la precisión de estas identificaciones, creando así un ciclo de mejora continua. De esta forma, _PlantSnap_ se convierte en un puente entre la ciencia y la tecnología, abriendo las puertas a una nueva era de colaboración y acceso a la información científica.
+Este enfoque democrático de la ciencia permite que cualquier persona, independientemente de su formación, pueda aportar al avance del conocimiento. El constante _feedback_ que reciben los algoritmos a través de estas contribuciones también mejora la precisión de las identificaciones, creando un ciclo de mejora continua. Así, _PlantSnap_ se convierte en un puente entre la ciencia tradicional y la tecnología, abriendo las puertas a una nueva era de colaboración y acceso a la información científica.
 
-Esto resulta especialmente útil en campos como la biogeografía y los análisis del impacto sobre el cambio climático. De este modo, no solo ofrece información valiosa a sus usuarios, sino que también a las comunidades científicas y organizaciones ambientales.
+Esta aplicación contribuye al avance de la ciencia en la era digital. Al recopilar y organizar grandes volúmenes de datos en tiempo real, _PlantSnap_ abre nuevas posibilidades para la investigación científica. Esto resulta especialmente útil en campos como la biogeografía, el monitoreo de la biodiversidad y el análisis del impacto del cambio climático. De este modo, no solo ofrece beneficios inmediatos a sus usuarios, sino que también aporta información valiosa para comunidades científicas, organizaciones ambientales y proyectos gubernamentales enfocados en la sostenibilidad.
 
-Como conclusión, podemos decir que _PlantSnap_ no es solo una herramienta práctica para identificar plantas, sino que también representa un puente entre la tecnología y la naturaleza, permitiendo que actividades cotidianas como identificar especies de plantas se conviertan en oportunidades valiosas de aprendizaje. Esta aplicación nos demuestra del poder que puede llegar a tener la tecnología para transformar la manera en que entendemos y protegemos nuestro entorno, inspirando un impacto positivo tanto individual como colectivo.
+Como conclusión, podemos decir que _PlantSnap_ no es solo una herramienta práctica para identificar plantas, sino que también representa un puente entre la tecnología y la naturaleza, permitiendo que actividades cotidianas como identificar especies de plantas se conviertan en oportunidades valiosas de aprendizaje. Esta aplicación nos demuestra del poder que puede llegar a tener la innovación tecnológica para transformar la manera en que entendemos y protegemos nuestro entorno, inspirando un impacto positivo tanto individual como colectivo.
 
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * School, I. D. (2024, 19 junio). El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.   https://iddigitalschool.com/el-exito-de-pokemon-go/
+* _What is augmented reality?_ (2024, 8 noviembre). PTC. https://www.ptc.com/en/blogs/ar/what-is-augmented-reality
 * _Pokémon GO_. (s. f.). Pokémon GO. https://pokemongolive.com/es/
 * _Who we Are - PlantSnap Mobile App - Plant Identifier App_. (2024, 13 agosto). Plantsnap - Identify Plants, Trees, Mushrooms With An App. https://www.plantsnap.com/who-we-are/
 * Lovos, P. H. (2018, 6 junio). _PlantSnap, una aplicación para identificar especies de plantas - El Target_. El Target. https://eltarget.com/2018/06/06/plantsnap-una-aplicacion-identificar-especies-plantas/
