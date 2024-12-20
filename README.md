@@ -41,9 +41,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* **All about Manovich**. (s. f.). CrosswordLabs.com.
-https://crosswordlabs.com/embed/all-about-manovich-2
-* School, I. D. (2024, 19 junio). **El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.**   https://iddigitalschool.com/el-exito-de-pokemon-go/ 
+* School, I. D. (2024, 19 junio). **El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.**   https://iddigitalschool.com/el-exito-de-pokemon-go/
+* 
 
 
 ----
