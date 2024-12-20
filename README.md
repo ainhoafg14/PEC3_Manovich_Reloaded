@@ -37,7 +37,7 @@ La influencia de _Pokémon GO_ nos ha ido demostrado, con el paso del tiempo, c�
 
 ## Re-descubriendo la hibridacion: PlantSnap
 
-_PlantSnap_ es otro ejemplo de hibridación, donde se combinan la botánica con la inteligencia artificial / reconocimiento de imágenes. Esta aplicación permite a sus usuarios identificar diferentes especies de plantas y árboles, es tan sencillo como tomar una foto desde el móvil y, mediante bases de datos entrenadas con inteligencia artifical, te detecta qué especie es la que tienes enfrente.
+_PlantSnap_ es otro ejemplo de hibridación, donde se combinan la botánica con la inteligencia artificial / reconocimiento de imágenes. Esta aplicación permite a sus usuarios identificar diferentes especies de plantas y árboles, es tan sencillo como tomar una foto desde el móvil y, mediante bases de datos entrenadas con inteligencia artifical, te detecta qué especie es la que tienes enfrente tuyo.
 
 Esta aplicación transforma la experiencia tradicional del estudio de la naturaleza en una actividad accesible y automatizada, eliminando la necesidad de conocimiento experto previo. Esto resalta la "informatización de las prácticas culturales" que Manovich menciona en su obra, ya que una actividad previamente analógica (como lo es identificar plantas con tu conocimiento previo o mediante guías) se digitaliza y globaliza.
 
