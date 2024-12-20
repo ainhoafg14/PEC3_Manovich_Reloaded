@@ -49,9 +49,9 @@ Por otro lado, _PlantSnap_ ejemplifica la hibridación entre diferentes campos d
 
 Este enfoque democrático de la ciencia permite que cualquier persona pueda aportar al avance de esta. El constante _feedback_ que reciben los algoritmos a través de estas contribuciones también va mejorando cada vez más la precisión de estas identificaciones, creando así un ciclo de mejora continua. De esta forma, _PlantSnap_ se convierte en un puente entre la ciencia y la tecnología, abriendo las puertas a una nueva era de colaboración y acceso a la información científica.
 
-Esto resulta especialmente útil en campos como la biogeografía, el monitoreo de la biodiversidad y los análisis del impacto sobre el cambio climático. De este modo, no solo ofrece beneficios inmediatos a sus usuarios, sino que también aporta información valiosa para comunidades científicas, organizaciones ambientales y proyectos gubernamentales enfocados en la sostenibilidad.
+Esto resulta especialmente útil en campos como la biogeografía y los análisis del impacto sobre el cambio climático. De este modo, no solo ofrece información valiosa a sus usuarios, sino que también a las comunidades científicas y organizaciones ambientales.
 
-Como conclusión, podemos decir que _PlantSnap_ no es solo una herramienta práctica para identificar plantas, sino que también representa un puente entre la tecnología y la naturaleza, permitiendo que actividades cotidianas como identificar especies de plantas se conviertan en oportunidades valiosas de aprendizaje. Esta aplicación nos demuestra del poder que puede llegar a tener la innovación tecnológica para transformar la manera en que entendemos y protegemos nuestro entorno, inspirando un impacto positivo tanto individual como colectivo.
+Como conclusión, podemos decir que _PlantSnap_ no es solo una herramienta práctica para identificar plantas, sino que también representa un puente entre la tecnología y la naturaleza, permitiendo que actividades cotidianas como identificar especies de plantas se conviertan en oportunidades valiosas de aprendizaje. Esta aplicación nos demuestra del poder que puede llegar a tener la tecnología para transformar la manera en que entendemos y protegemos nuestro entorno, inspirando un impacto positivo tanto individual como colectivo.
 
 
 ### Referencias y Bibliografía
