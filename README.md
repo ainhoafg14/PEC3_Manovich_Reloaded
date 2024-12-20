@@ -37,7 +37,7 @@ La influencia de _Pokémon GO_ nos ha ido demostrado, con el paso del tiempo, c�
 
 ## Re-descubriendo la hibridacion: PlantSnap
 
-_PlantSnap_ es otro ejemplo de hibridación, donde se combinan la botánica con la inteligencia artificial / reconocimiento de imágenes. Esta aplicación permite a sus usuarios identificar diferentes especies de plantas y árboles, es tan sencillo como tomar una foto desde el móvil y, mediante bases de datos entrenadas con inteligencia artifical, te detecta qué especie es la que tienes enfrente tuyo.
+_PlantSnap_ es otro ejemplo de hibridación, donde se combinan la botánica con la inteligencia artificial / reconocimiento de imágenes. Esta aplicación permite a sus usuarios identificar diferentes especies de plantas y árboles, es tan sencillo como tomar una foto desde el móvil y, mediante bases de datos entrenadas con inteligencia artifical, te detecta qué especie es la que tienes enfrente.
 
 Esta aplicación transforma la experiencia tradicional del estudio de la naturaleza en una actividad accesible y automatizada, eliminando la necesidad de conocimiento experto previo. Esto resalta la "informatización de las prácticas culturales" que Manovich menciona en su obra, ya que una actividad previamente analógica (como lo es identificar plantas con tu conocimiento previo o mediante guías) se digitaliza y globaliza.
 
@@ -47,7 +47,11 @@ Cabe a destacar también la integración de paradigmas visuales. Esta aplicació
 
 Por otro lado, _PlantSnap_ ejemplifica la hibridación entre diferentes campos de conocimiento. Por un lado, la biología y la ecología aportan el contenido; por otro, la IA proporciona la metodología para procesarlo. En este sentido, la aplicación no solo actúa como herramienta educativa, sino que también fomenta una nueva forma de participación ciudadana en el ámbito científico. Aquí, los usuarios contribuyen, involuntariamente, al crecimiento de la base de datos de la aplicación al registrar nuevas especies o validar las ya existentes.
 
-Este enfoque democrático de la ciencia permite que cualquier persona, independientemente de su formación, pueda aportar al avance del conocimiento. El constante _feedback_ que reciben los algoritmos a través de estas contribuciones también mejora la precisión de las identificaciones, creando un ciclo de mejora continua. Así, _PlantSnap_ se convierte en un puente entre la ciencia tradicional y la tecnología, abriendo las puertas a una nueva era de colaboración y acceso a la información científica.
+Este enfoque democrático de la ciencia permite que cualquier persona pueda aportar al avance de esta. El constante _feedback_ que reciben los algoritmos a través de estas contribuciones también va mejorando cada vez más la precisión de estas identificaciones, creando así un ciclo de mejora continua. De esta forma, _PlantSnap_ se convierte en un puente entre la ciencia y la tecnología, abriendo las puertas a una nueva era de colaboración y acceso a la información científica.
+
+Esto resulta especialmente útil en campos como la biogeografía, el monitoreo de la biodiversidad y los análisis del impacto sobre el cambio climático. De este modo, no solo ofrece beneficios inmediatos a sus usuarios, sino que también aporta información valiosa para comunidades científicas, organizaciones ambientales y proyectos gubernamentales enfocados en la sostenibilidad.
+
+Como conclusión, podemos decir que _PlantSnap_ no es solo una herramienta práctica para identificar plantas, sino que también representa un puente entre la tecnología y la naturaleza, permitiendo que actividades cotidianas como identificar especies de plantas se conviertan en oportunidades valiosas de aprendizaje. Esta aplicación nos demuestra del poder que puede llegar a tener la innovación tecnológica para transformar la manera en que entendemos y protegemos nuestro entorno, inspirando un impacto positivo tanto individual como colectivo.
 
 
 ### Referencias y Bibliografía
