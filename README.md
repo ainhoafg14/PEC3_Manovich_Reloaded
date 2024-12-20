@@ -24,11 +24,13 @@ _Pokémon GO_ es un claro ejemplo de hibridación donde convergen la realidad au
 
 Este  juego puede entenderse como una hibridación de sistemas culturales y tecnológicos. Combina el espacio físico con el virtual, integrando mapas reales con objetos digitales que aparecen en la pantalla del móvil. Este "mapeo híbrido" ejemplifica la tendencia hacia la "remediación" de lo físico, donde los entornos tradicionales son reinterpretados mediante capas digitales.
 
-![Pokémon GO](https://lh3.googleusercontent.com/RGShDyVofSODXIJ0eQ9umAID8tCw9KdqBFrtgCEdrxjJijG1qZBryfECP9IRV1MOJhCk4Za4VYB34DE-hnPesZNNVYMwgHKs9KrNue3LNJRJuw=e365-w1920)
+[Tráiler de Pokémon GO en YouTube](https://youtu.be/2sj2iQyBTQs?si=oqD1tX1lSSxilVPY)
 
 Como destaca Manovich, la tecnología contemporánea tiende a borrar las fronteras entre lo analógico y lo digital, lo local y lo global. En este caso, la geolocalización permite que jugadores de diferentes partes de alrededor del mundo compartan una experiencia común mientras interactúan con su entorno local de una manera única. Por ejemplo, monumentos históricos, plazas, bibliotecas o parques se convierten en _Poképaradas_ o gimnasios, dándoles a estos lugares nuevos significados e interpretaciones.
 
 Otro aspecto clave es cómo se integra una narrativa preexistente en un innovador formato tecnológico. Pokémon GO forma parte de la consolidada franquicia de Pokémon, pero su versión de móvil añade una nueva capa de interactividad. Esto demuestra cómo la hibridación puede revitalizar contenidos culturales, atrayendo tanto a audiencias nostálgicas como a nuevos jugadores.
+
+![Pokémon GO](https://lh3.googleusercontent.com/RGShDyVofSODXIJ0eQ9umAID8tCw9KdqBFrtgCEdrxjJijG1qZBryfECP9IRV1MOJhCk4Za4VYB34DE-hnPesZNNVYMwgHKs9KrNue3LNJRJuw=e365-w1920)
 
 Por último, también resalta la "gamificación" de la vida cotidiana. Al incentivar a los usuarios a caminar y explorar, el juego introduce elementos lúdicos en actividades rutinarias. Esto se alinea con la observación de Manovich sobre cómo las tecnologías digitales no solo modifican nuestras prácticas culturales, sino que también crean nuevas. Este último punto es el punto clave de su éxito. Por primera vez a gran escala, para poder mejorar en un juego se tenía que salir de casa e interactuar con el mundo a tu alrededor. Las zonas cotidianas de tu municipio se convierten en el sitio donde conviven tus criaturas virtuales preferidas.
 
@@ -58,6 +60,7 @@ Como conclusión, podemos decir que _PlantSnap_ no es solo una herramienta prác
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * _What is augmented reality?_ (2024, 8 noviembre). PTC. https://www.ptc.com/en/blogs/ar/what-is-augmented-reality
+* The Official Pokémon YouTube channel. (2015, 10 septiembre). _Discover Pokémon in the Real World with Pokémon GO!_ [Vídeo]. YouTube. https://www.youtube.com/watch?v=2sj2iQyBTQs
 * School, I. D. (2024, 19 junio). El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.   https://iddigitalschool.com/el-exito-de-pokemon-go/
 * _Pokémon GO_. (s. f.). Pokémon GO. https://pokemongolive.com/es/
 * _Who we Are - PlantSnap Mobile App - Plant Identifier App_. (2024, 13 agosto). Plantsnap - Identify Plants, Trees, Mushrooms With An App. https://www.plantsnap.com/who-we-are/
