@@ -57,8 +57,8 @@ Como conclusión, podemos decir que _PlantSnap_ no es solo una herramienta prác
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* School, I. D. (2024, 19 junio). El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.   https://iddigitalschool.com/el-exito-de-pokemon-go/
 * _What is augmented reality?_ (2024, 8 noviembre). PTC. https://www.ptc.com/en/blogs/ar/what-is-augmented-reality
+* School, I. D. (2024, 19 junio). El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.   https://iddigitalschool.com/el-exito-de-pokemon-go/
 * _Pokémon GO_. (s. f.). Pokémon GO. https://pokemongolive.com/es/
 * _Who we Are - PlantSnap Mobile App - Plant Identifier App_. (2024, 13 agosto). Plantsnap - Identify Plants, Trees, Mushrooms With An App. https://www.plantsnap.com/who-we-are/
 * Lovos, P. H. (2018, 6 junio). _PlantSnap, una aplicación para identificar especies de plantas - El Target_. El Target. https://eltarget.com/2018/06/06/plantsnap-una-aplicacion-identificar-especies-plantas/
