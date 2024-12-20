@@ -41,11 +41,13 @@ La influencia de _Pokémon GO_ nos ha ido demostrado, con el paso del tiempo, c�
 
 _PlantSnap_ es otro ejemplo de hibridación, donde se combinan la botánica con la inteligencia artificial / reconocimiento de imágenes. Esta aplicación permite a sus usuarios identificar diferentes especies de plantas y árboles, es tan sencillo como tomar una foto desde el móvil y, mediante bases de datos entrenadas con inteligencia artifical, te detecta qué especie es la que tienes enfrente.
 
+[Vídeo explicativo en YouTube sobre _PlantSnap_](https://youtu.be/1XtdfQtFkA0?si=Vta7gv5yEjw6EcDb)
+
 Esta aplicación transforma la experiencia tradicional del estudio de la naturaleza en una actividad accesible y automatizada, eliminando la necesidad de conocimiento experto previo. Esto resalta la "informatización de las prácticas culturales" que Manovich menciona en su obra, ya que una actividad previamente analógica (como lo es identificar plantas con tu conocimiento previo o mediante guías) se digitaliza y globaliza.
 
-![PlantSnap, una aplicación para identificar especies de plantas - El Target](https://lh3.googleusercontent.com/proxy/6fMRtcz-Jw7Xtq_LFsf0glCkWt4dQhOLcSCMl9knA_7e-sEd2vZDpgXNnHqvKF38Ggb9riAwZ4Qa1l3GoH8RKIxpI01zVowrSanmzlF6vRgAtq5SOcNWOsE5_Q)
-
 Cabe a destacar también la integración de paradigmas visuales. Esta aplicación transforma esa complejidad biológica en imágenes y datos que se procesan automáticamente, reforzando la idea de que la tecnología no solo mediatiza, sino que también redefine cómo interactuamos con el mundo. Este fenómeno no sería posible sin el uso de algoritmos de aprendizaje profundo que, al fin y al cabo, no dejan de ser una extensión de la capacidad humana para organizar la información visual.
+
+![PlantSnap, una aplicación para identificar especies de plantas - El Target](https://lh3.googleusercontent.com/proxy/6fMRtcz-Jw7Xtq_LFsf0glCkWt4dQhOLcSCMl9knA_7e-sEd2vZDpgXNnHqvKF38Ggb9riAwZ4Qa1l3GoH8RKIxpI01zVowrSanmzlF6vRgAtq5SOcNWOsE5_Q)
 
 Por otro lado, _PlantSnap_ ejemplifica la hibridación entre diferentes campos de conocimiento. Por un lado, la biología y la ecología aportan el contenido; por otro, la IA proporciona la metodología para procesarlo. En este sentido, la aplicación no solo actúa como herramienta educativa, sino que también fomenta una nueva forma de participación ciudadana en el ámbito científico. Aquí, los usuarios contribuyen, involuntariamente, al crecimiento de la base de datos de la aplicación al registrar nuevas especies o validar las ya existentes.
 
@@ -63,7 +65,8 @@ Como conclusión, podemos decir que _PlantSnap_ no es solo una herramienta prác
 * The Official Pokémon YouTube channel. (2015, 10 septiembre). _Discover Pokémon in the Real World with Pokémon GO!_ [Vídeo]. YouTube. https://www.youtube.com/watch?v=2sj2iQyBTQs
 * School, I. D. (2024, 19 junio). El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.   https://iddigitalschool.com/el-exito-de-pokemon-go/
 * _Pokémon GO_. (s. f.). Pokémon GO. https://pokemongolive.com/es/
-* _Who we Are - PlantSnap Mobile App - Plant Identifier App_. (2024, 13 agosto). Plantsnap - Identify Plants, Trees, Mushrooms With An App. https://www.plantsnap.com/who-we-are/
+* _Who we Are - PlantSnap Mobile App - Plant Identifier App_. (2024, 13 agosto). Plantsnap 
+* PlantSnap. (2017, 20 octubre). _PlantSnap 30 second Ad_ [Vídeo]. YouTube. https://www.youtube.com/watch?v=1XtdfQtFkA0- Identify Plants, Trees, Mushrooms With An App. https://www.plantsnap.com/who-we-are/
 * Lovos, P. H. (2018, 6 junio). _PlantSnap, una aplicación para identificar especies de plantas - El Target_. El Target. https://eltarget.com/2018/06/06/plantsnap-una-aplicacion-identificar-especies-plantas/
 
 
