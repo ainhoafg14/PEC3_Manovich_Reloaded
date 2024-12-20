@@ -15,16 +15,22 @@ Fecha: 20 de diciembre de 2024
 ## Planteamiento
 
 
-La hibridación surge como un fenómeno clave que redefine la interacción entre los usuarios y la multimedia. Según Lev Manovich en su obra _El Software toma el mando_, este concepto implica la fusión de diferentes disciplinas, tanto tecnologías como prácticas culturales para crear nuevas experiencias. En esta práctica analizaremos dos casos de hibridación moderna con las gafas de Manovich: Pokémon GO y PlantSnap.
+La hibridación surge como un fenómeno clave que redefine la interacción entre los usuarios y la multimedia. Según Lev Manovich en su obra _El Software toma el mando_, este concepto implica la fusión de diferentes disciplinas, tanto tecnologías como prácticas culturales para crear nuevas experiencias. En esta práctica analizaremos dos casos de hibridación moderna con las gafas de Manovich: _Pokémon GO_ y _PlantSnap_.
 
 
 ## Re-descubriendo la hibridación: Pokémon GO
 
-Pokémon GO es un claro ejemplo de hibridación donde convergen la realidad aumentada (RA), la geolocalización y el diseño 3D. Lanzado por Niantic en 2016, este videojuego permite a sus usuarios explorar el mundo real mientras capturan las criaturas virtuales conocidas como Pokémon, transformando espacios físicos en escenarios interactivos.
+_Pokémon GO_ es un claro ejemplo de hibridación donde convergen la realidad aumentada (RA), la geolocalización y el diseño 3D. Lanzado por Niantic en 2016, este videojuego permite a sus usuarios explorar el mundo real mientras capturan las criaturas virtuales conocidas como Pokémon, transformando espacios físicos en escenarios interactivos.
 
-Pokémon GO puede entenderse como una hibridación de sistemas culturales y tecnológicos. Combina el espacio físico con el virtual, integrando mapas reales con objetos digitales que aparecen en la pantalla del móvil. Este "mapeo híbrido" ejemplifica la tendencia hacia la "remediación" de lo físico, donde los entornos tradicionales son reinterpretados mediante capas digitales.
+Este  juego puede entenderse como una hibridación de sistemas culturales y tecnológicos. Combina el espacio físico con el virtual, integrando mapas reales con objetos digitales que aparecen en la pantalla del móvil. Este "mapeo híbrido" ejemplifica la tendencia hacia la "remediación" de lo físico, donde los entornos tradicionales son reinterpretados mediante capas digitales.
 
 ![Pokémon GO](https://lh3.googleusercontent.com/RGShDyVofSODXIJ0eQ9umAID8tCw9KdqBFrtgCEdrxjJijG1qZBryfECP9IRV1MOJhCk4Za4VYB34DE-hnPesZNNVYMwgHKs9KrNue3LNJRJuw=e365-w1920)
+
+Como destaca Manovich, la tecnología contemporánea tiende a borrar las fronteras entre lo analógico y lo digital, lo local y lo global. En este caso, la geolocalización permite que jugadores de diferentes partes de alrededor del mundo compartan una experiencia común mientras interactúan con su entorno local de una manera única. Por ejemplo, monumentos históricos, plazas, bibliotecas o parques se convierten en _Poképaradas_ o gimnasios, dándoles a estos lugares nuevos significados e interpretaciones.
+
+Otro aspecto clave es lcómo se integra una narrativa preexistente en un innovador formato tecnológico. Pokémon GO forma parte de la consolidada franquicia de Pokémon, pero su versión de móvil añade una nueva capa de interactividad. Esto demuestra cómo la hibridación puede revitalizar contenidos culturales, atrayendo tanto a audiencias nostálgicas como a nuevos jugadores.
+
+Por último, también resalta la "gamificación" de la vida cotidiana. Al incentivar a los usuarios a caminar y explorar, el juego introduce elementos lúdicos en actividades rutinarias. Esto se alinea con la observación de Manovich sobre cómo las tecnologías digitales no solo modifican nuestras prácticas culturales, sino que también crean nuevas. Este último punto es el punto clave de su éxito. Por primera vez a gran escala, para poder mejorar en un juego se tenía que salir de casa e interactuar con el mundo a tu alrededor. Las zonas cotidianas de tu municipio se convierten en el sitio donde conviven tus criaturas virtuales preferias.
 
 
 ## Re-descubriendo la hibridacion: PlantSnap
