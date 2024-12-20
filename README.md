@@ -15,7 +15,7 @@ Fecha: 20 de diciembre de 2024
 ## Planteamiento
 
 
-La hibridación surge como un fenómeno clave que redefine la interacción entre los usuarios y la multimedia. Según Lev Manovich en su obra _El Software toma el mando_, este concepto implica la fusión de diferentes disciplinas, tanto tecnologías como prácticas culturales para crear nuevas experiencias. En esta práctica analizaremos dos casos de hibridación moderna con las gafas de Manovich: _Pokémon GO_ y _PlantSnap_.
+La hibridación surge como un fenómeno clave que redefine la interacción entre los usuarios y la tecnología. Según Lev Manovich en su obra _El Software toma el mando_, este concepto implica la fusión de diferentes disciplinas, tanto tecnologías como prácticas culturales para crear nuevas experiencias. En esta práctica analizaremos dos casos de hibridación moderna con las gafas de Manovich: _Pokémon GO_ y _PlantSnap_.
 
 
 ## Re-descubriendo la hibridación: Pokémon GO
@@ -28,7 +28,7 @@ Este  juego puede entenderse como una hibridación de sistemas culturales y tecn
 
 Como destaca Manovich, la tecnología contemporánea tiende a borrar las fronteras entre lo analógico y lo digital, lo local y lo global. En este caso, la geolocalización permite que jugadores de diferentes partes de alrededor del mundo compartan una experiencia común mientras interactúan con su entorno local de una manera única. Por ejemplo, monumentos históricos, plazas, bibliotecas o parques se convierten en _Poképaradas_ o gimnasios, dándoles a estos lugares nuevos significados e interpretaciones.
 
-Otro aspecto clave es lcómo se integra una narrativa preexistente en un innovador formato tecnológico. Pokémon GO forma parte de la consolidada franquicia de Pokémon, pero su versión de móvil añade una nueva capa de interactividad. Esto demuestra cómo la hibridación puede revitalizar contenidos culturales, atrayendo tanto a audiencias nostálgicas como a nuevos jugadores.
+Otro aspecto clave es cómo se integra una narrativa preexistente en un innovador formato tecnológico. Pokémon GO forma parte de la consolidada franquicia de Pokémon, pero su versión de móvil añade una nueva capa de interactividad. Esto demuestra cómo la hibridación puede revitalizar contenidos culturales, atrayendo tanto a audiencias nostálgicas como a nuevos jugadores.
 
 Por último, también resalta la "gamificación" de la vida cotidiana. Al incentivar a los usuarios a caminar y explorar, el juego introduce elementos lúdicos en actividades rutinarias. Esto se alinea con la observación de Manovich sobre cómo las tecnologías digitales no solo modifican nuestras prácticas culturales, sino que también crean nuevas. Este último punto es el punto clave de su éxito. Por primera vez a gran escala, para poder mejorar en un juego se tenía que salir de casa e interactuar con el mundo a tu alrededor. Las zonas cotidianas de tu municipio se convierten en el sitio donde conviven tus criaturas virtuales preferidas.
 
@@ -37,17 +37,26 @@ La influencia de _Pokémon GO_ nos ha ido demostrado, con el paso del tiempo, c�
 
 ## Re-descubriendo la hibridacion: PlantSnap
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+_PlantSnap_ es otro ejemplo de hibridación, donde se combinan la botánica con la inteligencia artificial / reconocimiento de imágenes. Esta aplicación permite a sus usuarios identificar diferentes especies de plantas y árboles, es tan sencillo como tomar una foto desde el móvil y, mediante bases de datos entrenadas con inteligencia artifical, te detecta qué especie es la que tienes enfrente.
 
--
+Esta aplicación transforma la experiencia tradicional del estudio de la naturaleza en una actividad accesible y automatizada, eliminando la necesidad de conocimiento experto previo. Esto resalta la "informatización de las prácticas culturales" que Manovich menciona en su obra, ya que una actividad previamente analógica (como lo es identificar plantas con tu conocimiento previo o mediante guías) se digitaliza y globaliza.
+
+![PlantSnap, una aplicación para identificar especies de plantas - El Target](https://lh3.googleusercontent.com/proxy/6fMRtcz-Jw7Xtq_LFsf0glCkWt4dQhOLcSCMl9knA_7e-sEd2vZDpgXNnHqvKF38Ggb9riAwZ4Qa1l3GoH8RKIxpI01zVowrSanmzlF6vRgAtq5SOcNWOsE5_Q)
+
+Cabe a destacar también la integración de paradigmas visuales. Esta aplicación transforma esa complejidad biológica en información procesada automáticamente, reforzando la idea de que la tecnología no solo mediatiza, sino que también transforma nuestra manera de interactuar con el mundo. Este fenómeno no sería posible sin el uso de algoritmos de aprendizaje profundo que, al fin y al cabo, no dejan de ser una extensión de la capacidad humana para organizar la información visual.
+
+Por otro lado, _PlantSnap_ ejemplifica la hibridación entre diferentes campos de conocimiento. Por un lado, la biología y la ecología aportan el contenido; por otro, la IA proporciona la metodología para procesarlo. En este sentido, la aplicación no solo actúa como herramienta didáctica, sino que también fomenta una nueva forma de participación ciudadana en el ámbito científico. Aquí, los usuarios contribuyen, involuntariamente, al crecimiento de la base de datos de la aplicación al registrar nuevas especies o validar las ya existentes.
+
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* School, I. D. (2024, 19 junio). **El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.**   https://iddigitalschool.com/el-exito-de-pokemon-go/
-* 
+* School, I. D. (2024, 19 junio). El éxito de Pokémon Go. ID Digital School - Másteres Oficiales y Bootcamps Tecnológicos.   https://iddigitalschool.com/el-exito-de-pokemon-go/
+* _Pokémon GO_. (s. f.). Pokémon GO. https://pokemongolive.com/es/
+* _Who we Are - PlantSnap Mobile App - Plant Identifier App_. (2024, 13 agosto). Plantsnap - Identify Plants, Trees, Mushrooms With An App. https://www.plantsnap.com/who-we-are/
+* Lovos, P. H. (2018, 6 junio). _PlantSnap, una aplicación para identificar especies de plantas - El Target_. El Target. https://eltarget.com/2018/06/06/plantsnap-una-aplicacion-identificar-especies-plantas/
 
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
